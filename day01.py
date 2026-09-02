@@ -678,3 +678,5 @@ scores = [68, 92, 55, 81, 76]
 # total = calculate_total(big_orders)
 #
 # print(f"大额订单共 {count} 笔，总金额为 ¥{total:,.2f}")
+
+""
